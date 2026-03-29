@@ -5,7 +5,7 @@ lexer grammar LALexer;
  * Comentários em LA são delimitados por chaves { } e também são ignorados.
  */
 WS : [ \t\n\r]+ -> skip ;
-COMENTARIO : '{' ~'}'* '}' -> skip ;
+COMENTARIO : '{' ~[}\r\n]* '}' -> skip ;
 
 /* * Palavras-chave da linguagem LA 
  */
@@ -87,6 +87,6 @@ CADEIA : '"' ~['"\r\n]* '"' ;
 
 /* * Tratamento de Erros Léxicos
  */
-ERRO_COMENTARIO_NAO_FECHADO : '{' ~'}'* ;
+ERRO_COMENTARIO_NAO_FECHADO : '{' ~[}\r\n]* ;
 ERRO_CADEIA_NAO_FECHADA : '"' ~['"\r\n]* ;
 ERRO_SIMBOLO : . ;
