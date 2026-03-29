@@ -4,11 +4,9 @@ Este repositório contém a implementação dos trabalhos práticos da disciplin
 
 O objetivo principal do projeto é construir um compilador completo para a **Linguagem Algorítmica (LA)**, idealizada pelo prof. Jander Moreira. O compilador é desenvolvido em **Java** utilizando a ferramenta **ANTLR4** para a geração dos analisadores léxico e sintático.
 
-## 👨‍💻 Autores (Grupo)
+## 👨‍💻 Autor
 
-* **Gustavo Kim** - RA: 818723
-* **[Nome do Integrante 2]** - RA: [RA do Integrante 2]
-* **[Nome do Integrante 3]** - RA: [RA do Integrante 3]
+* **Gustavo Borguetti Daré** - RA: 818723
 
 ---
 
