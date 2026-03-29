@@ -1,16 +1,16 @@
 # Construção de Compiladores - UFSCar
 
-Este repositório contém a implementação dos trabalhos práticos da disciplina de Construção de Compiladores (semestre atual), ministrada pelo prof. Daniel Lucrédio no Departamento de Computação da Universidade Federal de São Carlos (UFSCar).
+Este repositório contém a implementação dos trabalhos práticos da disciplina de Construção de Compiladores, ministrada pelo prof. Daniel Lucrédio no Departamento de Computação da Universidade Federal de São Carlos (UFSCar).
 
 O objetivo principal do projeto é construir um compilador completo para a **Linguagem Algorítmica (LA)**, idealizada pelo prof. Jander Moreira. O compilador é desenvolvido em **Java** utilizando a ferramenta **ANTLR4** para a geração dos analisadores léxico e sintático.
 
-## 👨‍💻 Autor
+## Autor
 
 * **Gustavo Borguetti Daré** - RA: 818723
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 O desenvolvimento do compilador é dividido em etapas parciais, acumulando funcionalidades a cada novo trabalho entregue:
 
