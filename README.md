@@ -19,7 +19,6 @@ O desenvolvimento do compilador é dividido em etapas parciais, acumulando funci
 * **[T3] Analisador Semântico:** *[Em breve]* Verificação de coerência de tipos, declaração de variáveis, escopo e regras de negócio da linguagem.
 * **[T4] Gerador de Código:** *[Em breve]* Tradução do código-fonte LA validado para a linguagem alvo (C).
 * **[T5] Compilador Completo:** *[Em breve]* Integração de todas as fases e refinamento final.
-* **[T6] Trabalho Final:** *[Em breve]* Etapa de aplicação prática ou extensão (conforme especificação da disciplina).
 
 ---
 
